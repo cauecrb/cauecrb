@@ -56,4 +56,4 @@ bem desenhada.
 
 ## 📫 Contato
 
-[LinkedIn]((https://www.linkedin.com/in/cau%C3%AA-burgardt)) · [crburgardt@gmail.com]
+[LinkedIn][https://www.linkedin.com/in/cau%C3%AA-burgardt] · [crburgardt@gmail.com]
