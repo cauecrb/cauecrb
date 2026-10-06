@@ -2,8 +2,7 @@
 
 Desenvolvedor em Curitiba/PR com foco em **backend (Python e PHP)** e experiência em
 front-end com React. Mais de 5 anos de JavaScript, APIs, bancos de dados relacionais e
-automação. Hoje na **SmartUrbe**, trabalhando com sistemas de gestão de dados e
-integração com LLMs.
+automação.
 
 Aprendo rápido com a stack que o projeto pede, seja uma lib de front diferente ou um
 framework novo. O que não muda é a base: código organizado, banco bem modelado e API
@@ -16,6 +15,8 @@ bem desenhada.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 
 **Bancos de dados**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -36,7 +37,7 @@ bem desenhada.
 - **Front-end:** React, HTML, CSS (e adaptação rápida a outras bibliotecas)
 - **Bancos de dados:** PostgreSQL, MySQL, MongoDB
 - **DevOps e ferramentas:** Docker, Git, Linux, metodologias ágeis (Scrum/Kanban)
-- - **IA/ML:** TensorFlow, Keras, scikit-learn, RAG, embeddings, Ollama, integração com APIs de LLM
+- **IA/ML:** TensorFlow, Keras, scikit-learn, RAG, embeddings, Ollama, integração com APIs de LLM
 
 ## 🚀 Projetos em destaque
 
@@ -49,6 +50,9 @@ bem desenhada.
   TensorFlow, treinado no dataset Europarl.
 - 🎬 **[Classificador de sentimentos](https://github.com/cauecrb/RN-classificarcomentarios)** —
   rede neural em Keras que classifica críticas de filmes (IMDB) como positivas ou negativas.
+- 🐘 **[Gerenciador de Atividades](https://github.com/cauecrb/gerenciafor_atividades_php)** (PHP) —
+  aplicação de gestão de projetos e tarefas com Kanban, controle de membros por projeto,
+  filtros por status e prioridade e anexos em PDF. Laravel 12, Inertia + Vue 3 e MySQL.
 
 ## 🌱 Explorando agora
 
