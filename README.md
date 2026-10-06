@@ -49,7 +49,6 @@ bem desenhada.
   TensorFlow, treinado no dataset Europarl.
 - 🎬 **[Classificador de sentimentos](https://github.com/cauecrb/RN-classificarcomentarios)** —
   rede neural em Keras que classifica críticas de filmes (IMDB) como positivas ou negativas.
-- 🐘 **[Projeto em PHP]([link do repo])** — [uma frase: o que faz + banco usado]
 
 ## 🌱 Explorando agora
 
